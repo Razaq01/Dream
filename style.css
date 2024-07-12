@@ -1,0 +1,100 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    text-decoration: none;
+}
+
+body {
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5e30b4c769dcbf426b421101/1593215420102-RNIC0T4606GDA6XTX36M/Hopen+Place+Hollywood+Hills+modern+home+backyard+pool+terrace+for+luxury+outdoor+living?format=1000w);
+    background-size: cover;
+}
+
+#pic {
+    list-style-type: none;
+    display: flex;
+    gap: 10px;
+    padding-left: 20px;
+}
+
+
+nav ul li {
+    display: inline-block;
+    line-height: 80px;
+    margin: 0px 35px;
+    color: #fff;
+    
+
+}
+
+#top {
+    color: #fff;
+}
+
+#signin {
+    margin-left: 700px;
+}
+
+#signup {
+    border: 30px;
+    /* height: 48px; */
+    background-color: #b4fc38;
+    padding: 20px;
+    width: 170px;
+    border-radius: 24px;
+    color: #000;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#pre1 {
+    color: #fff;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 100px;
+}
+
+#pre2 {
+    color: #fff;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+#our {
+    color: #fff;
+    font-size: 20px;
+    line-height: 25px;
+    padding-left: 20px;
+    list-style-type: none;
+}
+
+#rentproperty {
+    display: flex;
+    padding-top: 25px;
+    margin-left: 20px;
+    gap: 30px;
+}
+
+#rent {
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #24303c;
+    color: #929ca5;
+}
+
+#nearly {
+    margin-left: 880px;
+    background-color: #b4fc38;
+    color: #000;
+    font-weight: bold;
+    font-size: 17px;
+    width: 220px;
+    height: 53px;
+    border-radius: 24px;
+}
+
+
+
